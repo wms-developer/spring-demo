@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>4.3.11.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
             <!--spring-context 将自动带入spring-core spring-beans spring-aop spring-expression等-->
         </dependency>
     </dependencies>
